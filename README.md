@@ -62,8 +62,7 @@ The goal is to understand:
 ## 📎 How to Use
 
 1. Download this repository or clone it.
-2. Open `Sales_Performance.pbix` using Power BI Desktop.
-3. Explore dashboard filters, charts, and KPIs.
-4. Use PDF or screenshot for static sharing.
+2. Explore dashboard filters, charts, and KPIs.
+3. Use PDF or screenshot for static sharing.
 
 ---
