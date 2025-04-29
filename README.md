@@ -67,6 +67,3 @@ The goal is to understand:
 4. Use PDF or screenshot for static sharing.
 
 ---
-
-## ❤️ Made with Power BI
-[![Power Bi](https://app.powerbi.com/groups/me/reports/15db21f3-c349-44db-afdd-b36069fc2351/06d9cbf55c815fb4da7e?experience=power-bi)---
