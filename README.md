@@ -19,9 +19,7 @@ The goal is to understand:
 | File | Description |
 |------|-------------|
 [sales data.xlsx](https://github.com/user-attachments/files/19962875/sales.data.xlsx) | Raw dataset (Products, Regions, Units Sold, Salesperson, Dates) |
-
-[Sales Performance Project.pdf](https://github.com/user-attachments/files/19962883/Sales.Performance.Project.pdf) | Final report exported as PDF (non-editable) |
----
+[Sales Performance Project.pdf](https://github.com/user-attachments/files/19962883/Sales.Performance.Project.pdf) | Final report exported as PDF (non-editable) |---
 
 ## 🔍 Key Insights
 
