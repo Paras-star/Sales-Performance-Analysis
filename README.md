@@ -10,8 +10,9 @@ The goal is to understand:
 ---
 
 ## 📊 Dashboard Preview
-![Sales Performance Dataset : Products, Region, and Sales Team](https://github.com/user-attachments/assets/45679583-2084-4bb3-9033-079d8ee54720)
-[Sales Performance Project.pdf](https://github.com/user-attachments/files/19962799/Sales.Performance.Project.pdf)
+![Sales Performance ](https://github.com/user-attachments/assets/cb566851-18ec-46a1-84a1-61532efe4b39)
+
+[Sales Performance Project_New.pdf](https://github.com/user-attachments/files/20279388/Sales.Performance.Project_New.pdf)
 
 
 ## 📂 Files Included
@@ -19,7 +20,8 @@ The goal is to understand:
 | File | Description |
 |------|-------------|
 [sales data.xlsx](https://github.com/user-attachments/files/19962875/sales.data.xlsx) | Raw dataset (Products, Regions, Units Sold, Salesperson, Dates) |
-[Sales Performance Project.pdf](https://github.com/user-attachments/files/19962883/Sales.Performance.Project.pdf) | Final report exported as PDF (non-editable) |---
+[Sales Performance Project_New.pdf](https://github.com/user-attachments/files/20279391/Sales.Performance.Project_New.pdf)
+ | Final report exported as PDF (non-editable) |---
 
 ## 🔍 Key Insights
 
